@@ -51,6 +51,10 @@
 
             divide(num1, num2);
 
+            Console.WriteLine("This is a summary of your entries: ");
+
+            Console.ReadKey();
+
         }
 
     }
